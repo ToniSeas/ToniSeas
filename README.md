@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Antony Seas</h1>
 
-- 🔭 I’m currently working on [Nearlinx](https://nearlinx.com/)
-- 🤝 I’m developing [TS PDF](https://github.com/tspdf/tspdf)
+- 👨‍💻 I’m currently working on [Nearlinx](https://nearlinx.com/)
+- 🛠️ I’m developing [TS PDF](https://github.com/tspdf/tspdf)
 - 💬 Ask me about **Python & React**
 
 ## 🌐 Socials:
